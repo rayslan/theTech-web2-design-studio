@@ -16,23 +16,23 @@ const Header = () => {
         <div className='logo'>[theTech.academy]</div>
         <nav className='nav'>
           <li>
-            <a href='/design'>Design</a>
+            <a href='/design'>About</a>
           </li>
           <li>
-            <a href='/strategy'>Strategy</a>
+            <a href='/strategy'>Program</a>
           </li>
           <li>
-            <a href='/cases'>Cases</a>
+            <a href='/cases'>Success_Stories</a>
           </li>
           <li>
-            <a href='/about'>About</a>
+            <a href='/about'>Contact_Us</a>
           </li>
           <li>
-            <a href='/why'>Why work with us?</a>
+            {/* <a href='/why'>Why work with us?</a> */}
           </li>
         </nav>
         <div className='contact'>
-          <a href='/contact'>Let's discuss your future</a>
+          <a href='/contact'>...open enrollment for | December 2021</a>
         </div>
         <div className='hamburger-menu'>
           <span></span>
