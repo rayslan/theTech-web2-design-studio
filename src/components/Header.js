@@ -16,7 +16,7 @@ const Header = () => {
         <div className='logo'>[theTech.academy]</div>
         <nav className='nav'>
           <li>
-            <a href='/design'>About</a>
+            <a href='../index.js'>About</a>
           </li>
           <li>
             <a href='/strategy'>Program</a>
