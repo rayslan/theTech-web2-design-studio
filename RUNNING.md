@@ -20,6 +20,17 @@ yarn install
 echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
 yarn start
 
+------FOR CONTAINER------
+
+use NODE version 12.22.5
+
+yarn install
+npm rebuild node-sass
+
+yarn start
+
+---------------------------
+
 
 
 ```
