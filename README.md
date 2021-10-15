@@ -25,4 +25,17 @@ yarn start
 your app should start working at https://localhost:3000
 
 
+
+------FOR CONTAINER------
+
+use NODE version 12.22.5
+
+yarn install
+npm rebuild node-sass
+
+yarn start
+
+---------------------------
+
+
 ```
